@@ -13,8 +13,8 @@ running_game = True
 os.environ['SDL_VIDEO_CENTERED'] = '1'
 
 #   Setting dimensions of the game window
-screen_height = 800
-screen_width = 1200
+screen_height = 1080
+screen_width = 1920
 
 # print(screen_width / 3 + 80)
 
