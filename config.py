@@ -46,15 +46,15 @@ idle_time_p2 = 0  # Idle time for player 2
 brown_color = (156, 91, 91)
 
 #   Loading the icons for all the players, obstacles, coins
-pl1_img = pg.image.load("pl1.png")  # Player 1
-pl2_img = pg.image.load("pl2.png")  # Player 2
-icon = pg.image.load("icon.png")  # Icon for game window
-rock_img = pg.image.load("rock.png")  # Fixed Obstacle 1
-stone_img = pg.image.load("stone.png")  # Fixed Obstacle 2
-ship_img = pg.image.load("ship.png")  # Moving Obstacle 1
-shark_img = pg.image.load('shark.png')  # Moving Obstacle 2
-coin_img = pg.image.load('coin.png')  # Bonus Coin
-loot_img = pg.image.load('coinloot.png')  # Bonus Coins
+pl1_img = pg.image.load("icons/pl1.png")  # Player 1
+pl2_img = pg.image.load("icons/pl2.png")  # Player 2
+icon = pg.image.load("icons/icon.png")  # Icon for game window
+rock_img = pg.image.load("icons/rock.png")  # Fixed Obstacle 1
+stone_img = pg.image.load("icons/stone.png")  # Fixed Obstacle 2
+ship_img = pg.image.load("icons/ship.png")  # Moving Obstacle 1
+shark_img = pg.image.load('icons/shark.png')  # Moving Obstacle 2
+coin_img = pg.image.load('icons/coin.png')  # Bonus Coin
+loot_img = pg.image.load('icons/coinloot.png')  # Bonus Coins
 
 #   Making list of Fixed and Moving Obstacles' Images respectively
 fixed_obstacle_img = [rock_img, stone_img]
