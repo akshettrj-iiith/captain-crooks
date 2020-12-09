@@ -29,9 +29,9 @@ Python3
 - If a player reaches then end and other player doesn't, then player will win the round
 - There are two types of obstacles
     - **Fixed**
-        - <img src = "rock.png"> <img src = "icons/stone.png">
+        - <img src = "icons/rock.png"> <img src = "icons/stone.png">
     - **Moving**
-        - <img src = "ship.png"> <img src = "icons/shark.png">
+        - <img src = "icons/ship.png"> <img src = "icons/shark.png">
 - Score on crossing 
     - Fixed Obstacles : 5
     - Moving Obstacles : 10
