@@ -29,17 +29,17 @@ Python3
 - If a player reaches then end and other player doesn't, then player will win the round
 - There are two types of obstacles
     - **Fixed**
-        - <img src = "rock.png"> <img src = "stone.png">
+        - <img src = "rock.png"> <img src = "icons/stone.png">
     - **Moving**
-        - <img src = "ship.png"> <img src = "shark.png">
+        - <img src = "ship.png"> <img src = "icons/shark.png">
 - Score on crossing 
     - Fixed Obstacles : 5
     - Moving Obstacles : 10
 - There are two types of coins for bonus score
     - **Single Coin** : 10 points
-        - <img src = "coin.png"><br>
+        - <img src = "icons/coin.png"><br>
     - **Group of coins** : 20 points
-        - <img src = "coinloot.png">
+        - <img src = "icons/coinloot.png">
 - If a player touches the obstacles, he will die and turn of other player will come
 - All the moving obstacles move with randomized speeds
 - If the player is resting on the slabs, then he is safe from moving obstacles
